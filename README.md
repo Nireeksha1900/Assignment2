@@ -7,7 +7,6 @@
     <body>
         <header>
         <h1>New York-Central Park</h1>
-       
         <ul>
             <a href=""><li>Description</li></a>
             <a href=""><li>Related Photos</li></a>
@@ -30,10 +29,6 @@
    I love Central Park.<br><br><br>
    <footer>
     <a href="">Home|Browse|Search</a>
-   </footer>
-
-               
-
-
+        </footer>
     </body>
 </html>
